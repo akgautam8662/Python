@@ -1,0 +1,14 @@
+NUMPY :-
+
+NumPy is a Python library.
+NumPy is used for working with arrays.
+NumPy is short for "Numerical Python".
+
+Installation of NumPy :-
+
+
+
+Import NumPy :-
+
+For Import NumPy we use import keyword.
+simply write (import numpy) and ready to use.
